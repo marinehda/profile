@@ -50,11 +50,12 @@ a:hover {
   font-style: normal;
 }
 
-.container {
+.page-content {
   width: 650px;
   margin: 0 auto;
   font-size: 16;
   font-weight: 400;
+  margin-left: 300px;
 }
 
 .card1 {
@@ -95,4 +96,12 @@ ul li{
 
 tr {
   text-align: center
+}
+
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
 }

@@ -54,7 +54,8 @@ a:hover {
   width: 650px;
   font-size: 16;
   font-weight: 400;
-  margin-left: 300px;
+  margin-left: 100px;
+  text-align: center;
 }
 
 .card1 {
@@ -99,7 +100,7 @@ tr {
 
 .sidebar {
   position: fixed;
-  width: 300px;
+  width: 100px;
   left: 0;
   top: 0;
   bottom: 0;

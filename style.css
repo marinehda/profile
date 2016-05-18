@@ -98,7 +98,7 @@ tr {
   text-align: center
 }
 
-#sidebar {
+.sidebar {
   position: fixed;
   width: 300px;
   left: 0;

@@ -55,6 +55,9 @@ a:hover {
   font-size: 16;
   font-weight: 400;
   margin-left: 100px;
+  margin-top: 0
+  margin-bottom: 0;
+  margin-right: 0
   text-align: center;
 }
 
